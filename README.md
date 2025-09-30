@@ -5,17 +5,17 @@
 ## Особенности
 
 -  **Умный поиск** - поиск по названию и режиссёру
-![Dashboard Preview](./images/search.pngpng)
+![Searcg Preview](./images/search.png)
 -  **Фильтрация по жанрам** - поддержка множественных жанров для каждого аниме
-![Dashboard Preview](./images/filter.pngpng)
+![Filter Preview](./images/filter.png)
 -  **Сортировка** - по названию, рейтингу или году выпуска
-![Dashboard Preview](./images/sort.pngpng)
+![Sort Preview](./images/sort.png)
 -  **Избранное** - сохранение любимого аниме с localStorage
-![Dashboard Preview](./images/favourite.pngpng)
+![Favourite Preview](./images/favourite.png)
 -  **Адаптивный дизайн** - работает на всех устройствах
-![Dashboard Preview](./images/adapt.pngpng)
+![Adapt Preview](./images/adapt.png)
 -  **Быстрая работа** - оптимизированные рендеринг и фильтрация
-![Dashboard Preview](./images/noData.png)
+![NoData Preview](./images/noData.png)
 
 
 ## Технологии
