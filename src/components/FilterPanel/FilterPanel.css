@@ -1,0 +1,30 @@
+.filter-panel {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.filter-panel select {
+    padding: 12px 20px 12px 20px; 
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 25px;
+    color: var(--text-primary);
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+    transition: var(--transition);
+    outline: none;
+}
+
+.filter-panel select:hover {
+    background: rgba(255, 255, 255, 0.15);
+    border-color: rgba(255, 255, 255, 0.3);
+}
+
+.filter-panel select option {
+    background: var(--card-bg);
+    color: var(--text-primary);
+    border-radius: 25px;
+}
+
